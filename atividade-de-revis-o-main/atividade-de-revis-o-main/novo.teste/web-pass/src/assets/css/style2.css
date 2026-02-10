@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+header {
+    background-color: #284457;
+    
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.container {
+    width: 90%;
+    margin: 20px auto;
+}
+
+form {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 6px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 8px;
+}
